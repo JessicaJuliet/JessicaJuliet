@@ -10,8 +10,6 @@
 
 🌟 Fun fact: I'm a career switcher from Marketing to Coding, so I have a super charged skillset!
 
-____
-
 ## Tech Stack:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/> <!-- HTML -->
@@ -26,4 +24,8 @@ ____
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="60"/> <!-- Django  -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60"/> <!-- MongoDB -->
 
+## GitHub Stats:
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JessicaJuliet)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaJuliet)](https://github.com/JessicaJuliet/github-readme-stats)
