@@ -25,7 +25,3 @@ ____
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" width="60"/> <!-- Heroku  -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="60"/> <!-- Django  -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60"/> <!-- MongoDB -->
-
-____
-
-**Check out my latest projects below 👇🏾**
