@@ -25,3 +25,5 @@ ____
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" width="60"/> <!-- Heroku  -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="60"/> <!-- Django  -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60"/> <!-- MongoDB -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JessicaJuliet)
