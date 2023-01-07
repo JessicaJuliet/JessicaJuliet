@@ -1,6 +1,14 @@
-## Hi there, I'm Jessica 👋🏾
+# 👋🏽 Hello World, I'm Jess! 🌍
 
-I'm passionate about developing beautiful websites with an outstanding UX. I'm currently completing a Diploma in Full Stack Software Development at the Code Institute and I hope you enjoy browsing through some of my recent projects 👩🏾‍💻 
+## About Me:
+
+🙋🏾‍♀️ Hi I'm Jessica, but you can call me Jess!
+
+🖥️ I'm passionate about developing beautiful websites with an outstanding UX. 
+
+👩🏾‍💻 I'm currently working as a Frontend Web Developer for a luxury jewellery brand and recently completed a Diploma in Full Stack Software Development at the <a href="https://codeinstitute.net">Code Institute</a>.
+
+🌟 Fun fact: I'm a career switcher from Marketing to Coding, so I have a super charged skillset!
 
 ____
 
