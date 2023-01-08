@@ -6,9 +6,11 @@
 
 🖥️ I'm passionate about developing beautiful websites with an outstanding UX. 
 
-👩🏾‍💻 I'm currently working as a Frontend Web Developer for a luxury jewellery brand and recently completed a Diploma in Full Stack Software Development at the <a href="https://codeinstitute.net">Code Institute</a>.
+👩🏾‍💻 I'm currently working as a Frontend Web Developer for a luxury jewellery brand.
 
-🌟 Fun fact: I'm a career switcher from Marketing to Coding, so I have a super charged skillset!
+👩🏽‍🎓 I recently completed a Diploma in Full Stack Software Development at the <a href="https://codeinstitute.net">Code Institute</a>.
+
+🌟 Fun fact: I'm a career switcher from Marketing to Coding, giving me a super charged skillset!
 
 ## Tech Stack:
 
