@@ -8,7 +8,9 @@
 
 👩🏾‍💻 I'm currently working as a Frontend Web Developer for a luxury jewellery brand.
 
-👩🏽‍🎓 I recently completed a Diploma in Full Stack Software Development at the <a href="https://codeinstitute.net">Code Institute</a>.
+🤓 I love to learn new technologies and I'm currently completing a course on React.
+
+👩🏽‍🎓 In 2021 I completed a Diploma in Full Stack Software Development at the <a href="https://codeinstitute.net">Code Institute</a>.
 
 🌟 Fun fact: I'm a career switcher from Marketing to Coding, giving me a super charged skillset!
 
