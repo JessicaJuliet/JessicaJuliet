@@ -1,6 +1,6 @@
 # Hello 🌍, I’m Jessica!
 
-🌟 I’m a creative Frontend Developer adept at translation designs into fully responsive and user-friendly interfaces. I love learning new technologies and I’m currently immersed in a React.js course.
+🌟 I’m a creative Frontend Developer adept at translating designs into fully responsive and user-friendly interfaces. I love learning new technologies and I’m currently immersed in a React.js course.
 
 👩🏾‍💻 I worked for 2+ years as a Web Developer for a luxury jewellery brand named Chupi. I developed strong skills in HTML, CSS and JavaScript, as well as collobarating with UX designers and senior developers.
 
