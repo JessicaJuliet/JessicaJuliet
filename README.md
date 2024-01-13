@@ -1,18 +1,10 @@
-# 👋🏽 Hello World, I'm Jess! 🌍
+# Hello 🌍, I’m Jessica!
 
-## About Me:
+🌟 I’m a creative Frontend Developer adept at translation designs into fully responsive and user-friendly interfaces. I love learning new technologies and I’m currently immersed in a React.js course.
 
-🙋🏾‍♀️ Hi I'm Jessica, but you can call me Jess!
+👩🏾‍💻 I worked for 2+ years as a Web Developer for a luxury jewellery brand named Chupi. I developed strong skills in HTML, CSS and JavaScript, as well as collobarating with UX designers and senior developers.
 
-🖥️ I'm passionate about developing beautiful websites with an outstanding UX. 
-
-👩🏾‍💻 I'm currently working as a Frontend Web Developer for a luxury jewellery brand.
-
-🤓 I love to learn new technologies and I'm currently completing a course on React.
-
-👩🏽‍🎓 In 2021 I completed a Diploma in Full Stack Software Development at the <a href="https://codeinstitute.net">Code Institute</a>.
-
-🌟 Fun fact: I'm a career switcher from Marketing to Coding, giving me a super charged skillset!
+🤓 I've completed a diploma in Full Stack Software Development at the <a href="https://codeinstitute.net">Code Institute</a>. This aided me in making a smooth transition from my previous career in Digital Marketing into the world of Tech!
 
 ## Tech Stack:
 
